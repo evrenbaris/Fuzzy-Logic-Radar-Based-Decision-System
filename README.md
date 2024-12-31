@@ -11,7 +11,7 @@ This project uses radar data (distance and speed) with a fuzzy logic system to a
 - **Python 3.x**
 - **scikit-fuzzy**: For fuzzy logic implementation.
 - **Matplotlib**: For visualization.
-- **Pandas**: For data handling.
+- **Pandas**: For data handling..
 
 ## How to Run
 1. Install the required libraries:
